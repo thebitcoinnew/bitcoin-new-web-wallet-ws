@@ -1,0 +1,19 @@
+{
+  "name": "raivault-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "express": "^4.16.2",
+    "knex": "^0.14.4",
+    "pg": "^7.4.1",
+    "ws": "^6.0.0"
+  }
+}
